@@ -1,3 +1,3 @@
-# Android Vulnerabilities Proof of Concepts
+# Android Vulnerability Reports and POCs
 
-* Vulnerability reports and POCs.
+* Each `CVE` has its vulnerability report - `research.pdf`.
